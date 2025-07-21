@@ -3,5 +3,5 @@
 ## Docente: Miguel Ortiz
 
 ## Repositorio con la solucion de las evaluaciones del curso 
-## Estudiante: ## Julio Burgos
-## julio.burgos@upb.edu.co
+## Estudiante: Julio Burgos
+## Email: julio.burgos@upb.edu.co
