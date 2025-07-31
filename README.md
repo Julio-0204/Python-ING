@@ -1,7 +1,7 @@
 # Python Aplicado a la Ingenieria 2025-02
 ## Universidad Pontificia Bolivariana 
 ## Docente: Miguel Ortiz
-
+## Email: miguel.ortiz@upb.edu.co
 ## Repositorio con la solucion de las evaluaciones del curso 
 ## Estudiante: Julio Burgos
 ## Email: julio.burgos@upb.edu.co
